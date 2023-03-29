@@ -6,11 +6,21 @@
 
 - I'm from Izmir, Turkey :tr:
 - I currently live in New York, NY :us:
-- I am a Junior at New York University :statue_of_liberty:
+- I am a Junior at New York University double majoring in Computer Science & Data Science and minoring in Math :statue_of_liberty:
 - My current obsessions include:
     - playing games on my Switch :video_game: & playing Pokémon GO	:space_invader:	
     - making an extensive list of the best food spots in NYC :ramen: :night_with_stars:	
     - martial arts :martial_arts_uniform: / participating in taekwondo competitions :trophy:
+
+<h4>Where to find me</h4>
+<p>
+    <a href="mailto:celinehekimgil@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/celinehekimgil@gmail.com-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+    <a href="https://www.linkedin.com/in/selin-hekimgil-57135a202/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Selin_Hekimgil-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+    <a href="https://www.instagram.com/selinhekimgil/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/@selinhekimgil-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+    <!--
+    <a href="https://github.com/selinhekimgil" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/selinhekimgil-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+    -->
+</p>
 
 <h4>Things I code with</h4>
 <p>
@@ -37,6 +47,9 @@
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 </p>
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selinhekimgil&layout=compact)](https://github.com/selinhekimgil)
+-->
 
 <!--
 **selinhekimgil/selinhekimgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
