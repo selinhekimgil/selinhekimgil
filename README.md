@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Selin! :handshake:	
 
-<!--
-<img src="./assets/hello-dark.gif#gh-light-mode-only" align="right" height="220" width="210" />
--->
+
+<img src="https://github.com/selinhekimgil/selinhekimgil.github.io/blob/main/src/images/NYCSunset.jpg" align="right" height="275" width="220" />
+
 
 - I'm from Izmir, Turkey :tr:
 - I currently live in New York, NY :us:
