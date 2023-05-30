@@ -53,7 +53,7 @@
 
 <details>
     <summary> Stats! :zap:</summary>
-    <img align="left" alt="selin's stats" src="https://github-readme-stats-dbzs.vercel.app/api/top-langs/?username=selinhekimgil&layout=compact" />
+    <img align="left" alt="selin's stats" src="https://github-readme-stats-dbzs.vercel.app/api/top-langs/?username=selinhekimgil&layout=compact&langs_count=6" />
 </details>
     
 <!-- [![Top Langs](https://github-readme-stats-dbzs.vercel.app/api/top-langs/?username=selinhekimgil&layout=compact)](https://github.com/selinhekimgil) -->
