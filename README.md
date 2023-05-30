@@ -22,6 +22,8 @@
     -->
 </p>
 
+<!-- --- -->
+
 <h4>Things I code with</h4>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -47,9 +49,9 @@
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 </p>
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selinhekimgil&layout=compact)](https://github.com/selinhekimgil)
--->
+
+<!-- [![Top Langs](https://github-readme-stats-five-nu-15.vercel.app/api/top-langs/?username=selinhekimgil&layout=compact)](https://github.com/selinhekimgil) -->
+
 
 <!--
 **selinhekimgil/selinhekimgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
