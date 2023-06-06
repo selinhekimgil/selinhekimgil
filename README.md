@@ -4,13 +4,13 @@
 <img src="https://github.com/selinhekimgil/selinhekimgil.github.io/blob/main/src/images/NYCSunset.jpg" align="right" height="275" width="220" />
 
 
-- I'm from Izmir, Turkey :tr:
-- I currently live in New York, NY :us:
-- I am a Junior at New York University double majoring in Computer Science & Data Science and minoring in Math :statue_of_liberty:
-- My current obsessions include:
-    - playing games on my Switch :video_game: & playing Pokémon GO	:space_invader:	
-    - making an extensive list of the best food spots in NYC :ramen: :night_with_stars:	
-    - martial arts :martial_arts_uniform: / participating in taekwondo competitions :trophy:
+- From Izmir, Turkey :tr:
+- Currently living in New York, NY :us:
+- Rising Senior at New York University studying Computer Science + Data Science + Math :statue_of_liberty:
+- Current interests:
+    - most things Nintendo :video_game:
+    - finding the best food spots in NYC :ramen: :night_with_stars:	
+    - taekwondo competitions :martial_arts_uniform: / hackathons 💻
 
 <h4>Where to find me</h4>
 <p>
@@ -24,37 +24,33 @@
 
 <!-- --- -->
 
-<details>
-    <summary>Things I code with ⬇️</summary>
-    <p>
-      <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
-      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> 
-      <img alt="Java" src="https://img.shields.io/badge/-Java-46a2f1?style=flat-square&logo=java&logoColor=white" />
-      <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-A8B9CC?style=flat-square&logo=c&logoColor=white" />    
-      <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />    
-      <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-      <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-      <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
-      <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white" />
-      <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-      <img alt="pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-    </p>
-</details>
+#### Things I code with
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> 
+  <img alt="Java" src="https://img.shields.io/badge/-Java-46a2f1?style=flat-square&logo=java&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-A8B9CC?style=flat-square&logo=c&logoColor=white" />    
+  <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" />    
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+</p>
 
-<details>
-    <summary> Stats! :zap:</summary>
-    <img align="left" alt="selin's stats" src="https://github-readme-stats-dbzs.vercel.app/api/top-langs/?username=selinhekimgil&layout=compact&langs_count=6" />
-</details>
+#### Stats! :zap:
+<img alt="selin's stats" src="https://github-readme-stats-dbzs.vercel.app/api/top-langs/?username=selinhekimgil&layout=compact&langs_count=6" />
     
 <!-- [![Top Langs](https://github-readme-stats-dbzs.vercel.app/api/top-langs/?username=selinhekimgil&layout=compact)](https://github.com/selinhekimgil) -->
 
