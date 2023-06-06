@@ -6,7 +6,7 @@
 
 - From Izmir, Turkey :tr:
 - Currently living in New York, NY :us:
-- Rising Senior at New York University studying Computer Science + Data Science + Math :statue_of_liberty:
+- Rising Senior at New York University studying Computer Science + Data Science :statue_of_liberty:
 - Current interests:
     - most things Nintendo :video_game:
     - finding the best food spots in NYC :ramen: :night_with_stars:	
