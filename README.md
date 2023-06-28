@@ -6,12 +6,13 @@
 
 - From Izmir, Turkey :tr:
 - Currently living in New York, NY :us:
-- Rising Senior at New York University studying Computer Science + Data Science :statue_of_liberty:
+- Rising Senior at NYU studying Computer Science + Data Science :statue_of_liberty:
 - Current interests:
     - most things Nintendo :video_game:
     - finding the best food spots in NYC :ramen: :night_with_stars:	
-    - taekwondo competitions :martial_arts_uniform: / hackathons 💻
-<br>
+    - taekwondo :martial_arts_uniform: / hackathons 💻
+###### Code for coursework is kept in a private repository as per NYU's policy!
+
 <h4>Where to find me</h4>
 <p>
     <a href="mailto:celinehekimgil@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/celinehekimgil@gmail.com-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
