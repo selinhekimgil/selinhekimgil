@@ -5,7 +5,7 @@
 
 
 - From Izmir, Turkey :tr:
-- Currently living in New York, NY :us:
+- Currently living in New York, NY :us: and Toronto, ON :canada:
 - Rising Senior at NYU studying Computer Science + Data Science :statue_of_liberty:
 - Current interests:
     - most things Nintendo :video_game:
